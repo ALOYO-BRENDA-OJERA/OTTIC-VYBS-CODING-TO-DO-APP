@@ -1,16 +1,8 @@
 # to_do
 
-A new Flutter project.
+to do list app.
+created with flutter stack and vibes coded.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/bb4ae072-a805-4929-ad28-fba14de7d929)
+![image](https://github.com/user-attachments/assets/e9105292-eadc-42a6-a4f5-af3a5ce2eae8)
+![image](https://github.com/user-attachments/assets/cd07fbe0-390c-48dc-9502-21b0f826ffe1)
